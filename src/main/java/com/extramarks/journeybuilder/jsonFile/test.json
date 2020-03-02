@@ -1,0 +1,18 @@
+{
+  "Test": {
+    "Call": "Review",
+    "Meet": "Report",
+    "Mail": "Done"
+  },
+  "Review": {
+    "Quality Check": "Report",
+    "Spell Check": "Test",
+    "Difficulty Check": "Done"
+  },
+  "Report": {
+    "Specification": "Test",
+    "Requirement": "Review",
+    "Presentation": "Done"
+  },
+  "Done": ""
+}
